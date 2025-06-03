@@ -37,7 +37,7 @@
 * **第一阶段：项目征集 (即日 - 2025年6月15日)**
     * 项目征集在资环学院研究生中进行，面向全体研究生。
     * 通过学院研究生群发布竞赛通知和活动方案。
-    * 学院在读研究生均可在 GitHub 的 [D2RS-2025spring/competition/ISSUE 1](https://github.com/D2RS-2025spring/competition/issue/1) 中以回复的方式注册并提交项目选题。
+    * 学院在读研究生均可在 GitHub 的 [D2RS-2025spring/competition/ISSUE 1](https://github.com/D2RS-2025spring/competition/issues/1) 中以回复的方式注册并提交项目选题。
     * 项目选题应包括以下内容：
         * 研究论文的标题和链接。
         * 复现的关键结果和指标。
@@ -45,7 +45,7 @@
         * 预期的创新点和应用场景。
     * 赛事组委会对提交的项目进行筛选，遴选出 1 - 3 项作为参赛项目。**每个入选项目的注册者将获得 500 元奖励**。
 * **第二阶段：组队提交与项目开发 (即日 - 2025年7月15日)**
-    * 参赛人员自行组队，并在 [D2RS-2025spring/competition/ISSUE](https://github.com/D2RS-2025spring/competition/issue) 注册队伍，列出参赛人员基本信息，说明实施方案，并自建 GitHub 仓库进行论文复现和 AI 应用探索。
+    * 参赛人员自行组队，并在 [D2RS-2025spring/competition/ISSUE](https://github.com/D2RS-2025spring/competition/issues) 注册队伍，列出参赛人员基本信息，说明实施方案，并自建 GitHub 仓库进行论文复现和 AI 应用探索。
     * 在截止日期前，将包含完整项目报告（包括复现结果、AI应用方案、代码等）的 GitHub 仓库移交给参赛组织。
 * **第三阶段：专家评审 (2025年7月16日 - 2025年7月31日)**
     * 邀请学院及相关领域专家组成评审组，对参赛项目进行评选。
