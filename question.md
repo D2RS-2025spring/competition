@@ -22,7 +22,7 @@ Lund, D., Parras-Moltó, M., Inda-Díaz, J.S. et al. Genetic compatibility and e
 | 3        | 遗传不相容性阈值效应          | 当基因组5-mer距离>**0.025**时转移概率骤降，ARG-基因组距离>**0.15**时概率趋近0 |<img src="https://github.com/user-attachments/assets/1d4ec672-8a63-49b1-b48d-0d2042b6e46d" alt="图4" width="200"/>|
 | 4        | 人类-废水传播网络             | 人类网络含**5门10纲**核心节点（如大肠杆菌），废水网络含**不动杆菌-假单胞菌**强连接 |<img src="https://github.com/user-attachments/assets/37692cb5-338b-424c-9bb1-fe993108305f" alt="图5" width="200"/>|
 
-#### 提交结果格式
+#### 提交结果要求以下格式
 Markdown格式
 
 Html格式
