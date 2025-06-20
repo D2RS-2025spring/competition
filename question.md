@@ -29,3 +29,9 @@ Lund, D., Parras-Moltó, M., Inda-Díaz, J.S. et al. Genetic compatibility and e
 * Markdown 格式（`*.md` 及其引用的图片等元素）
 * Html 格式（`*.html` 格式单文件）
 * Jupyter Notebook 格式（`*.ipynb` 格式）
+
+#### 提交方式
+
+* 参赛人员自行组队，并在 [D2RS-2025spring/competition/ISSUES](https://github.com/D2RS-2025spring/competition/issues) 注册队伍，列出参赛人员基本信息，说明实施方案，并自建 GitHub 仓库进行论文复现和 AI 应用探索。
+* 在**7月15日24:00**前，将包含完整项目报告（包括复现结果、AI应用方案、代码等）的 GitHub 仓库移交给参赛组织。
+
